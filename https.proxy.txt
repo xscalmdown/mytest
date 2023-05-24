@@ -1,0 +1,2 @@
+执行了
+$ git config --global --unset https.proxy
