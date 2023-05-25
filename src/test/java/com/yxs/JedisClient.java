@@ -17,7 +17,7 @@ public class JedisClient {
         String result = jedis.get("s8");
         System.out.println(result);
         jedis.close();
-        //xxxxx
+        //xxxxxyyyyy
     }
 
     //使用jedis连接池连接Redis服务器
