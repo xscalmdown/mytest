@@ -7,7 +7,7 @@
   <groupId>com.yxs</groupId>
   <artifactId>jedis-demo</artifactId>
   <version>1.0-SNAPSHOT</version>
-  int count =1
+  int count =2
   <name>jedis-demo</name>
   <!-- FIXME change it to the project's website  aaaa  哈哈再见-->
   <url>http://www.example.com</url>
